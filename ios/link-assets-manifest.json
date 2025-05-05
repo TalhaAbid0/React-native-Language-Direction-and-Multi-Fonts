@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Bold.ttf",
+      "sha1": "db268cd0e4ef29f66fa1236f70578e5edd5e2bcc"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Medium.ttf",
+      "sha1": "fc7e9cb346e653d14e11bc0304cee401525ed269"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-Regular.ttf",
+      "sha1": "9fc7cd62610ef380653a2f343df669d5b31a1ee4"
+    },
+    {
+      "path": "src/assets/fonts/NotoNastaliqUrdu-SemiBold.ttf",
+      "sha1": "a4f470e6e2584959bd12803103fe5a2eafaf565c"
+    },
+    {
+      "path": "src/assets/fonts/WinkySans-Bold.ttf",
+      "sha1": "ec683c7b098b0f4c559d1204c1adbd66ade7e70d"
+    },
+    {
+      "path": "src/assets/fonts/WinkySans-Medium.ttf",
+      "sha1": "928546601112dab40b0ffdf2e061cbae95a9905e"
+    },
+    {
+      "path": "src/assets/fonts/WinkySans-Regular.ttf",
+      "sha1": "daeeb910a0b69e2e7dabc33886cf27ebfd6c2515"
+    },
+    {
+      "path": "src/assets/fonts/WinkySans-SemiBold.ttf",
+      "sha1": "fd38f4455529707b51f558fd7f136905689c7390"
+    },
+    {
+      "path": "src/assets/fonts/index.ts",
+      "sha1": "67f3faa8436c26d51183ac91998898a361c10cc9"
+    }
+  ]
+}

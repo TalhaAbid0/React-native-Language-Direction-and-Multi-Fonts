@@ -1,0 +1,11 @@
+{
+  "language": "ENGLISH",
+  "screen": {
+    "home": {
+      "name": "Talha Abid",
+      "designation": "React Native Developer",
+      "Review": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️"
+    },
+    "languageButton": "Change language"
+  }
+}
