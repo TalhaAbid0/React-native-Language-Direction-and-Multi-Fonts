@@ -31,8 +31,6 @@ src/
 ├── assets/
 │   └── fonts/
 │       └── (Font files for en & ur)
-├── constants/
-│   └── fonts.ts
 └── App.tsx
 ```
 
@@ -53,3 +51,7 @@ src/
     yarn run android/
 
     yarn run ios/
+```
+
+
+#  🙌 Contributions are welcomed!
